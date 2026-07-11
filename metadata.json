@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "updated_at": "2026-07-11T00:23:39+00:00",
+    "spots": [
+        {
+            "id": 6,
+            "match_text": "ifood",
+            "match_normalized": "ifood",
+            "type": "spot",
+            "title": "Bateu a fome? Ifood",
+            "artist": "Pede Ifood Já",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783357881_a91ff606_704772.png",
+            "button_text": "Clique aqui",
+            "action_url": "https://www.ifood.com.br/delivery/ouro-preto-mg/pastel-da-mari-padre-faria/f3980ae5-fe45-428c-87d7-1148f1029083",
+            "background_color": "",
+            "priority": 100,
+            "start_at": "2026-07-05 14:10:00",
+            "end_at": "2094-09-06 14:10:00"
+        },
+        {
+            "id": 5,
+            "match_text": "claro multi",
+            "match_normalized": "claro multi",
+            "type": "spot",
+            "title": "Escolha a Claro!",
+            "artist": "Vem pra Claro Multi",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783304650_Claro-Logo-2004.png",
+            "button_text": "Clique aqui",
+            "action_url": "https://www.claronet.com/clarocombomulti?gclsrc=aw.ds&gad_source=1&gad_campaignid=22296460201&gbraid=0AAAAAD2hZZ0Trwgnc71nysdZTrgI3Z_85&gclid=Cj0KCQjwr4jSBhCSARIsAOX1E-Icc6ATvJSKqVR_n8sJZVQaAX3jRxSuQZ9U2v_PEec7jvHiJDYX4GUaAsNcEALw_wcB",
+            "background_color": "",
+            "priority": 100,
+            "start_at": "2026-07-03 23:59:00",
+            "end_at": "2030-10-04 23:59:00"
+        }
+    ]
+}
