@@ -1,7 +1,22 @@
 {
     "version": 1,
-    "updated_at": "2026-07-11T05:07:04+00:00",
+    "updated_at": "2026-07-11T05:17:07+00:00",
     "spots": [
+        {
+            "id": 11,
+            "match_text": "a sua melhor companhia",
+            "match_normalized": "a sua melhor companhia",
+            "type": "vinheta",
+            "title": "A sua Melhor Companhia",
+            "artist": "Bom gosto e qualidade no ar!",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783747024_82d3b128_companhia.png",
+            "button_text": "",
+            "action_url": "",
+            "background_color": "",
+            "priority": 100,
+            "start_at": null,
+            "end_at": null
+        },
         {
             "id": 9,
             "match_text": "ouca a programacao",
