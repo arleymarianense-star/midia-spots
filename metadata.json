@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-07-11T04:59:07+00:00",
+    "updated_at": "2026-07-11T05:07:04+00:00",
     "spots": [
         {
             "id": 9,
@@ -46,6 +46,21 @@
             "priority": 100,
             "start_at": "2026-07-03 23:59:00",
             "end_at": "2030-10-04 23:59:00"
+        },
+        {
+            "id": 10,
+            "match_text": "todo mundo ligado",
+            "match_normalized": "todo mundo ligado",
+            "type": "vinheta",
+            "title": "Tá todo mundo ligado!",
+            "artist": "Todo mundo conectado.",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783746421_3c667a0c_ChatGPT_Image_11_de_jul__de_2026__02_06_40.png",
+            "button_text": "",
+            "action_url": "",
+            "background_color": "",
+            "priority": 0,
+            "start_at": null,
+            "end_at": null
         },
         {
             "id": 8,
