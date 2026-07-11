@@ -1,7 +1,22 @@
 {
     "version": 1,
-    "updated_at": "2026-07-11T04:26:49+00:00",
+    "updated_at": "2026-07-11T04:59:07+00:00",
     "spots": [
+        {
+            "id": 9,
+            "match_text": "ouca a programacao",
+            "match_normalized": "ouca a programacao",
+            "type": "vinheta",
+            "title": "Ouça a programação da Mídia onde estiver.",
+            "artist": "A rádio que te acompanha pela cidade!",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783745944_fadc93c6_ou__a_onde_estiver.png",
+            "button_text": "",
+            "action_url": "",
+            "background_color": "",
+            "priority": 100,
+            "start_at": null,
+            "end_at": null
+        },
         {
             "id": 6,
             "match_text": "ifood",
