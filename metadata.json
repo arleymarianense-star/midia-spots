@@ -1,7 +1,22 @@
 {
     "version": 1,
-    "updated_at": "2026-07-11T05:22:21+00:00",
+    "updated_at": "2026-07-11T05:30:42+00:00",
     "spots": [
+        {
+            "id": 14,
+            "match_text": "a radiod e todos os momentos",
+            "match_normalized": "a radiod e todos os momentos",
+            "type": "spot",
+            "title": "A Rádio de todos os mementos",
+            "artist": "",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783747839_b1c2678e_todos_os_momentos.png",
+            "button_text": "",
+            "action_url": "",
+            "background_color": "",
+            "priority": 100,
+            "start_at": null,
+            "end_at": null
+        },
         {
             "id": 13,
             "match_text": "alegria no ar",
@@ -9,7 +24,7 @@
             "type": "vinheta",
             "title": "Mais alegria no ar",
             "artist": "Sintonia total com você",
-            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783747334_3bf07a18_ChatGPT_Image_11_de_jul__de_2026__02_06_40.png",
+            "cover": "https://radiomidiaweb.com.br/app-capas/uploads/1783747370_alegria.png",
             "button_text": "",
             "action_url": "",
             "background_color": "",
