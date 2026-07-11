@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated_at": "2026-07-11T04:26:44+00:00",
+    "updated_at": "2026-07-11T04:26:49+00:00",
     "spots": [
         {
             "id": 6,
@@ -31,6 +31,21 @@
             "priority": 100,
             "start_at": "2026-07-03 23:59:00",
             "end_at": "2030-10-04 23:59:00"
+        },
+        {
+            "id": 8,
+            "match_text": "acompanha",
+            "match_normalized": "acompanha",
+            "type": "vinheta",
+            "title": "Essa é a Rádio",
+            "artist": "que te acompanha pela cidade",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783744006_f707ce0e_a_radio_que_acompanha_pela_cidade.png",
+            "button_text": "",
+            "action_url": "",
+            "background_color": "",
+            "priority": 0,
+            "start_at": null,
+            "end_at": null
         },
         {
             "id": 7,
