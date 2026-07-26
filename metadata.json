@@ -1,6 +1,6 @@
 {
-    "version": 1785052163,
-    "updated_at": "2026-07-26T07:49:23+00:00",
+    "version": 1785052251,
+    "updated_at": "2026-07-26T07:50:51+00:00",
     "spots": [
         {
             "id": 18,
@@ -21,7 +21,7 @@
             "id": 17,
             "match_text": "New Model Army",
             "match_normalized": "new model army",
-            "type": "vinheta",
+            "type": "spot",
             "title": "",
             "artist": "",
             "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/capa_20260725_060735_4e19ae6856.jpg",
