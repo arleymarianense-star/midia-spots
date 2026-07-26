@@ -1,7 +1,22 @@
 {
-    "version": 1785054265,
-    "updated_at": "2026-07-26T08:24:25+00:00",
+    "version": 1785059006,
+    "updated_at": "2026-07-26T09:43:26+00:00",
     "spots": [
+        {
+            "id": 19,
+            "match_text": "Queijo Fatiado Itambé  Os únicos com Vitamina Uai",
+            "match_normalized": "queijo fatiado itambe os unicos com vitamina uai",
+            "type": "spot",
+            "title": "Queijo Fatiado Itambé",
+            "artist": "Os únicos com Vitamina Uai",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/capa_20260726_094325_3964008dfd.webp",
+            "button_text": "Clique aqui",
+            "action_url": "https://www.itambe.com.br/",
+            "background_color": "",
+            "priority": 2147483647,
+            "start_at": "2026-07-26 06:39:00",
+            "end_at": "2035-06-26 06:39:00"
+        },
         {
             "id": 18,
             "match_text": "Empresas  BTG Pactual",
