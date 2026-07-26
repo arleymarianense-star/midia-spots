@@ -1,10 +1,10 @@
 {
-    "version": 1785059006,
-    "updated_at": "2026-07-26T09:43:26+00:00",
+    "version": 1785059127,
+    "updated_at": "2026-07-26T09:45:27+00:00",
     "spots": [
         {
             "id": 19,
-            "match_text": "Queijo Fatiado Itambé  Os únicos com Vitamina Uai",
+            "match_text": "Queijo Fatiado Itambé  Os únicos com Vitamina Uai",
             "match_normalized": "queijo fatiado itambe os unicos com vitamina uai",
             "type": "spot",
             "title": "Queijo Fatiado Itambé",
