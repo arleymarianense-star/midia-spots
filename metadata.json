@@ -1,10 +1,10 @@
 {
-    "version": 1785051715,
-    "updated_at": "2026-07-26T07:41:55+00:00",
+    "version": 1785052163,
+    "updated_at": "2026-07-26T07:49:23+00:00",
     "spots": [
         {
             "id": 18,
-            "match_text": "Empresas - BTG Pactual",
+            "match_text": "Empresas  BTG Pactual",
             "match_normalized": "empresas btg pactual",
             "type": "spot",
             "title": "BTG Pactual - Empresas",
