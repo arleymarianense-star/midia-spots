@@ -1,7 +1,37 @@
 {
-    "version": 1,
-    "updated_at": "2026-07-11T05:37:08+00:00",
+    "version": 1785051715,
+    "updated_at": "2026-07-26T07:41:55+00:00",
     "spots": [
+        {
+            "id": 18,
+            "match_text": "Empresas - BTG Pactual",
+            "match_normalized": "empresas btg pactual",
+            "type": "spot",
+            "title": "BTG Pactual - Empresas",
+            "artist": "O Banco para o seu negócio",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/capa_20260726_065328_0ac2d1cfd4.png",
+            "button_text": "Clique aqui",
+            "action_url": "https://empresas.btgpactual.com/",
+            "background_color": "",
+            "priority": 2147483647,
+            "start_at": "2026-07-25 03:52:00",
+            "end_at": "2054-07-26 03:52:00"
+        },
+        {
+            "id": 17,
+            "match_text": "New Model Army",
+            "match_normalized": "new model army",
+            "type": "vinheta",
+            "title": "",
+            "artist": "",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/capa_20260725_060735_4e19ae6856.jpg",
+            "button_text": "",
+            "action_url": "",
+            "background_color": "",
+            "priority": 1000,
+            "start_at": "2026-07-24 03:06:00",
+            "end_at": "2054-09-25 03:07:00"
+        },
         {
             "id": 16,
             "match_text": "a sua radio na internet",
