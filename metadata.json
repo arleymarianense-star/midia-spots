@@ -1,9 +1,9 @@
 {
     "schema": "midia-web-metadata",
     "schema_version": 2,
-    "version": 1785158246,
-    "updated_at": "2026-07-27T13:17:26+00:00",
-    "cover_delay": 14,
+    "version": 1785158632,
+    "updated_at": "2026-07-27T13:23:52+00:00",
+    "cover_delay": 5,
     "fixed_metadata": {
         "enabled": false,
         "title": "gsgsgsssss",
