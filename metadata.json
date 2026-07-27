@@ -1,6 +1,6 @@
 {
-    "version": 1785059127,
-    "updated_at": "2026-07-26T09:45:27+00:00",
+    "version": 1785129337,
+    "updated_at": "2026-07-27T05:15:37+00:00",
     "spots": [
         {
             "id": 19,
@@ -81,7 +81,7 @@
             "id": 14,
             "match_text": "a radiod e todos os momentos",
             "match_normalized": "a radiod e todos os momentos",
-            "type": "spot",
+            "type": "vinheta",
             "title": "A Rádio de todos os mementos",
             "artist": "",
             "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/1783747839_b1c2678e_todos_os_momentos.png",
