@@ -1,9 +1,11 @@
 {
-    "version": 2,
-    "updated_at": "2026-07-27T10:46:49+00:00",
+    "schema": "midia-web-metadata",
+    "schema_version": 2,
+    "version": 1785155012,
+    "updated_at": "2026-07-27T12:23:32+00:00",
     "cover_delay": 0,
     "fixed_metadata": {
-        "enabled": false,
+        "enabled": true,
         "title": "gsgsgs",
         "subtitle": "gsgsgs",
         "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/metadado_fixo_20260727_104617_ab0bba15.png",
