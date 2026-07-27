@@ -1,15 +1,15 @@
 {
     "schema": "midia-web-metadata",
     "schema_version": 2,
-    "version": 1785155012,
-    "updated_at": "2026-07-27T12:23:32+00:00",
-    "cover_delay": 0,
+    "version": 1785155100,
+    "updated_at": "2026-07-27T12:25:00+00:00",
+    "cover_delay": 16,
     "fixed_metadata": {
         "enabled": true,
-        "title": "gsgsgs",
-        "subtitle": "gsgsgs",
+        "title": "gsgsgsssss",
+        "subtitle": "gsgsgssssssssss",
         "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/metadado_fixo_20260727_104617_ab0bba15.png",
-        "button_text": "CLIQUE AQUI SEU VIADO DO CARALHO",
+        "button_text": "CLIQUE AQUI SEU VIADsssssssssssssssssssssssssssssssssssssssss",
         "action_url": "https://parceiros.ifood.com.br/restaurante?network=g&utm_source=google&utm_medium=cpc&utm_campaign=ifood_br_b2b_g-search-brand_aon_kw-ifood_ifood-exata&utm_content=675464984059&utm_term=ifood-e&gad_source=1&gad_campaignid=20597603447&gbraid=0AAAAABq33MIhso8Q1Eqv6y9BzDWjvFsC_&gclid=CjwKCAjwvZHTBhAlEiwA1ug5P0DwmbbULCo1TmvnujNeOerYASlOLgZ1H_xbD3LP7B1HJ1clRPSMrhoCb0sQAvD_BwE"
     },
     "spots": [
