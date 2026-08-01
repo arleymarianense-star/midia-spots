@@ -1,8 +1,8 @@
 {
     "schema": "midia-web-metadata",
     "schema_version": 2,
-    "version": 1785619612,
-    "updated_at": "2026-08-01T21:26:52+00:00",
+    "version": 1785619613,
+    "updated_at": "2026-08-01T21:26:53+00:00",
     "cover_delay": 5,
     "fixed_metadata": {
         "enabled": false,
