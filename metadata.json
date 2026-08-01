@@ -1,8 +1,8 @@
 {
     "schema": "midia-web-metadata",
     "schema_version": 2,
-    "version": 1785158632,
-    "updated_at": "2026-07-27T13:23:52+00:00",
+    "version": 1785619595,
+    "updated_at": "2026-08-01T21:26:35+00:00",
     "cover_delay": 5,
     "fixed_metadata": {
         "enabled": false,
@@ -110,7 +110,7 @@
             "type": "vinheta",
             "title": "Mais alegria no ar",
             "artist": "Sintonia total com você",
-            "cover": "https://radiomidiaweb.com.br/app-capas/uploads/1783747370_alegria.png",
+            "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/capa_20260801_212633_116fe14809.png",
             "button_text": "",
             "action_url": "",
             "background_color": "",
