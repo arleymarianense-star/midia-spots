@@ -1,8 +1,8 @@
 {
     "schema": "midia-web-metadata",
     "schema_version": 2,
-    "version": 1785619619,
-    "updated_at": "2026-08-01T21:26:59+00:00",
+    "version": 1785700894,
+    "updated_at": "2026-08-02T20:01:34+00:00",
     "cover_delay": 5,
     "fixed_metadata": {
         "enabled": false,
@@ -48,8 +48,8 @@
             "match_text": "51st State",
             "match_normalized": "51st state",
             "type": "musica",
-            "title": "",
-            "artist": "",
+            "title": "51st State",
+            "artist": "New Model Army",
             "cover": "https://raw.githubusercontent.com/arleymarianense-star/midia-spots/main/capas/capa_20260725_060735_4e19ae6856.jpg",
             "button_text": "",
             "action_url": "",
